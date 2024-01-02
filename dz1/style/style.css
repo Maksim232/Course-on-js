@@ -1,0 +1,64 @@
+.busket_text{
+    padding-top: 5px;
+    padding-right: 5px;
+}
+.basket_img{
+    padding-top: 7.5px;
+    width: 20px;
+    height: 20px;
+}
+.btn-cart{
+    display: flex;
+    margin-left: 45px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: blueviolet;
+    font-size: 15px;
+    font-family: cursive;
+}
+.products{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.product-item{
+    width: 300px;
+    height: 500px;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+}
+h3{
+    font-size: 20px;
+    color: blueviolet;
+    font-family: fantasy;
+}
+.prices{
+    font-family: cursive;
+    margin-top: 250px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    
+}
+.valut{
+    color: green;
+    padding-left: 5px;
+}
+.buy-btn{
+    width: 100px;
+    height: 40px;
+    color: darkcyan;
+    background-color: lemonchiffon;
+    border-radius: 3px;
+    font-size: 15px;
+}
+.buy-btn:hover{
+    width: 100px;
+    height: 40px;
+    color: lemonchiffon;
+    background-color: darkcyan;
+    border-radius: 3px;
+    font-size: 15px;
+}
